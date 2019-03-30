@@ -1,1 +1,4 @@
 # dem_spider
+car 是通过普通的spider类来实现爬取太平洋汽车suv排行榜
+zh  是通过crawlspider类来实现爬取纵横中文网书籍信息
+qd  是通过RedisCrawlSpider分布式爬取起点书籍信息，数据寄存在redis下，并转存至本地mysql数据库
